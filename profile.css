@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(229, 238, 153);
+    flex
+}
+.top-header{
+    background-color: rgb(4, 0, 15);
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.section{
+    background-color: rgb(0, 102, 204);
+    color: white;
+    padding: 150px;
+    margin-top: 30px;
+    text-align: ;
+    display: fex;
+}
+
+.profile-menu{
+    background-color: rgb(0, 102, 204);
+    color: white;
+    padding: 200px;
+    margin-top: 2cqb;
+    text-align:;
+    display:f;
+}
